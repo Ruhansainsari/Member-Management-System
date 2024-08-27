@@ -22,6 +22,7 @@ The Member Management Application is a simple web-based system designed to manag
 - Update member details.
 - Delete a member.
 - Retrieve member information.
+- Search and Filter members
 
 
 ## Prerequisites
