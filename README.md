@@ -37,12 +37,12 @@ Once the application is up and running, you can use Postman or any REST client t
 
 ## API Endpoints
 
-GET /members        : Retrieve all members.
-GET /members/{id}   : Retrieve a member by ID.
-POST /members       : Register a new member.
-PUT /members/{id}   : Update member details.
-DELETE /members/{id}: Delete a member.
-POST /login         : Validate member login.
+- GET /members        : Retrieve all members.
+- GET /members/{id}   : Retrieve a member by ID.
+- POST /members       : Register a new member.
+- PUT /members/{id}   : Update member details.
+- DELETE /members/{id}: Delete a member.
+- POST /login         : Validate member login.
 
 ## Technologies Used
 
